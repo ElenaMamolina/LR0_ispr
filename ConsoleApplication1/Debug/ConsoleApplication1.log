@@ -1,0 +1,27 @@
+﻿  ConsoleCommands.c
+C:\Users\Home\Downloads\RBPO-LR0-main\RBPO-LR0-main\ConsoleApplication1\ConsoleCommands.c(17): warning C4047: =: "char" отличается по уровням косвенного обращения от "char [11]"
+C:\Users\Home\Downloads\RBPO-LR0-main\RBPO-LR0-main\ConsoleApplication1\ConsoleCommands.c(19): warning C4047: =: "char" отличается по уровням косвенного обращения от "char [11]"
+C:\Users\Home\Downloads\RBPO-LR0-main\RBPO-LR0-main\ConsoleApplication1\ConsoleCommands.c(20): warning C4047: =: "char" отличается по уровням косвенного обращения от "char [11]"
+C:\Users\Home\Downloads\RBPO-LR0-main\RBPO-LR0-main\ConsoleApplication1\ConsoleCommands.c(28): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): note:  см. объявление "scanf"
+C:\Users\Home\Downloads\RBPO-LR0-main\RBPO-LR0-main\ConsoleApplication1\ConsoleCommands.c(33): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): note:  см. объявление "scanf"
+C:\Users\Home\Downloads\RBPO-LR0-main\RBPO-LR0-main\ConsoleApplication1\ConsoleCommands.c(38): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): note:  см. объявление "scanf"
+C:\Users\Home\Downloads\RBPO-LR0-main\RBPO-LR0-main\ConsoleApplication1\ConsoleCommands.c(44): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): note:  см. объявление "scanf"
+C:\Users\Home\Downloads\RBPO-LR0-main\RBPO-LR0-main\ConsoleApplication1\ConsoleCommands.c(42): warning C4101: age: неиспользованная локальная переменная
+  PersonsManager.c
+C:\Users\Home\Downloads\RBPO-LR0-main\RBPO-LR0-main\ConsoleApplication1\PersonsManager.c(28): warning C4013: Sort: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Home\Downloads\RBPO-LR0-main\RBPO-LR0-main\ConsoleApplication1\PersonsManager.c(13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): note:  см. объявление "scanf"
+C:\Users\Home\Downloads\RBPO-LR0-main\RBPO-LR0-main\ConsoleApplication1\PersonsManager.c(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): note:  см. объявление "scanf"
+C:\Users\Home\Downloads\RBPO-LR0-main\RBPO-LR0-main\ConsoleApplication1\PersonsManager.c(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): note:  см. объявление "scanf"
+  RenderingTable.c
+  Sorting.c
+C:\Users\Home\Downloads\RBPO-LR0-main\RBPO-LR0-main\ConsoleApplication1\Sorting.c(15): warning C4090: функция: разные квалификаторы "const"
+  WorkingWithStrings.c
+  Создание кода...
+  ConsoleApplication1.vcxproj -> C:\Users\Home\Downloads\RBPO-LR0-main\RBPO-LR0-main\Debug\ConsoleApplication1.exe
